@@ -1,0 +1,1 @@
+Hex color VanillaJS Project.
